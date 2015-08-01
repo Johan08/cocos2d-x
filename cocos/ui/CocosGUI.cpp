@@ -23,7 +23,6 @@ THE SOFTWARE.
 ****************************************************************************/
 
 #include "ui/CocosGUI.h"
-
 NS_CC_BEGIN
 
 namespace ui {
